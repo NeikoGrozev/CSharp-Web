@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SULS", "SULS\SULS.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRunesNew", "IRunesNew\IRunesNew.csproj", "{410867A1-5876-4B73-9278-F333735932FA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andreys", "Andreys\Andreys.csproj", "{5AA345B6-1B2C-49EF-9407-751C3078FADF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Panda", "Panda\Panda.csproj", "{DFDF75F8-721A-4BB3-9BA9-699B62547ACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{410867A1-5876-4B73-9278-F333735932FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410867A1-5876-4B73-9278-F333735932FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410867A1-5876-4B73-9278-F333735932FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA345B6-1B2C-49EF-9407-751C3078FADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA345B6-1B2C-49EF-9407-751C3078FADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA345B6-1B2C-49EF-9407-751C3078FADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA345B6-1B2C-49EF-9407-751C3078FADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDF75F8-721A-4BB3-9BA9-699B62547ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDF75F8-721A-4BB3-9BA9-699B62547ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDF75F8-721A-4BB3-9BA9-699B62547ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDF75F8-721A-4BB3-9BA9-699B62547ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
